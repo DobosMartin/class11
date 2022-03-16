@@ -1,0 +1,11 @@
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.exe
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.deps.json
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.runtimeconfig.json
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.runtimeconfig.dev.json
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.dll
+Z:\11c\prog\c#\20200911_unio\20200911_unio\bin\Debug\netcoreapp3.1\20200911_unio.pdb
+Z:\11c\prog\c#\20200911_unio\20200911_unio\obj\Debug\netcoreapp3.1\20200911_unio.csprojAssemblyReference.cache
+Z:\11c\prog\c#\20200911_unio\20200911_unio\obj\Debug\netcoreapp3.1\20200911_unio.AssemblyInfoInputs.cache
+Z:\11c\prog\c#\20200911_unio\20200911_unio\obj\Debug\netcoreapp3.1\20200911_unio.AssemblyInfo.cs
+Z:\11c\prog\c#\20200911_unio\20200911_unio\obj\Debug\netcoreapp3.1\20200911_unio.dll
+Z:\11c\prog\c#\20200911_unio\20200911_unio\obj\Debug\netcoreapp3.1\20200911_unio.pdb
