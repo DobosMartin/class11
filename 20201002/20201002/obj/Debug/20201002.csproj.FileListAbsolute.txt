@@ -1,0 +1,6 @@
+Z:\11c\prog\c#\20201002\20201002\bin\Debug\20201002.exe.config
+Z:\11c\prog\c#\20201002\20201002\bin\Debug\20201002.exe
+Z:\11c\prog\c#\20201002\20201002\bin\Debug\20201002.pdb
+Z:\11c\prog\c#\20201002\20201002\obj\Debug\20201002.csprojAssemblyReference.cache
+Z:\11c\prog\c#\20201002\20201002\obj\Debug\20201002.exe
+Z:\11c\prog\c#\20201002\20201002\obj\Debug\20201002.pdb
