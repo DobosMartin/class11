@@ -1,0 +1,10 @@
+Z:\11c\prog\c#\20210528\20210528\bin\Debug\20210528.exe.config
+Z:\11c\prog\c#\20210528\20210528\bin\Debug\20210528.exe
+Z:\11c\prog\c#\20210528\20210528\bin\Debug\20210528.pdb
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\20210528.csprojAssemblyReference.cache
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\_20210528.Form1.resources
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\_20210528.Properties.Resources.resources
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\20210528.csproj.GenerateResource.cache
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\20210528.csproj.CoreCompileInputs.cache
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\20210528.exe
+Z:\11c\prog\c#\20210528\20210528\obj\Debug\20210528.pdb
