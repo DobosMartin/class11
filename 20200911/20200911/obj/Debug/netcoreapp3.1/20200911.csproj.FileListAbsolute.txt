@@ -1,0 +1,11 @@
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.exe
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.deps.json
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.runtimeconfig.json
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.runtimeconfig.dev.json
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.dll
+Z:\11c\prog\c#\20200911\20200911\bin\Debug\netcoreapp3.1\20200911.pdb
+Z:\11c\prog\c#\20200911\20200911\obj\Debug\netcoreapp3.1\20200911.csprojAssemblyReference.cache
+Z:\11c\prog\c#\20200911\20200911\obj\Debug\netcoreapp3.1\20200911.AssemblyInfoInputs.cache
+Z:\11c\prog\c#\20200911\20200911\obj\Debug\netcoreapp3.1\20200911.AssemblyInfo.cs
+Z:\11c\prog\c#\20200911\20200911\obj\Debug\netcoreapp3.1\20200911.dll
+Z:\11c\prog\c#\20200911\20200911\obj\Debug\netcoreapp3.1\20200911.pdb
