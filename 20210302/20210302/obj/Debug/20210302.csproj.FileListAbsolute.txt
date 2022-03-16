@@ -1,0 +1,9 @@
+Z:\11c\prog\c#\20210302\20210302\bin\Debug\20210302.exe.config
+Z:\11c\prog\c#\20210302\20210302\bin\Debug\20210302.exe
+Z:\11c\prog\c#\20210302\20210302\bin\Debug\20210302.pdb
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\20210302.csprojAssemblyReference.cache
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\_20210302.Form1.resources
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\_20210302.Properties.Resources.resources
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\20210302.csproj.GenerateResource.cache
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\20210302.exe
+Z:\11c\prog\c#\20210302\20210302\obj\Debug\20210302.pdb
